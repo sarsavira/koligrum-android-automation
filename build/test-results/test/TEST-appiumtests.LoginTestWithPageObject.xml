@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="appiumtests.LoginTestWithPageObject" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-21T13:59:23" hostname="U4-4W34FG3" time="17.421">
+  <properties/>
+  <testcase name="loginWithValidData()" classname="appiumtests.LoginTestWithPageObject" time="17.421"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Dec 21, 2021 8:59:30 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
